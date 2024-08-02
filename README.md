@@ -20,7 +20,7 @@ Users should be able to:
 
 
 ### Links
-Live link : [click](https://ab369.github.io/Song-Surfer-audio-player-/)
+Live link : [click]([https://ab369.github.io/Song-Surfer-audio-player-/](https://song-surfer-audio-player.vercel.app/))
 
 ## My process
 - Firstly I made the basic HTML structure with all necessary components.
